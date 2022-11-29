@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.93401ac0.css",
+    "main.js": "/robofriends/static/js/main.469565c3.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/rothek-bolditalic-webfont.woff": "/robofriends/static/media/rothek-bolditalic-webfont.961860ff971c4681a245.woff",
+    "static/media/rothek-extralight-webfont.woff": "/robofriends/static/media/rothek-extralight-webfont.485eda70025f39a5192e.woff",
+    "static/media/rothek-bolditalic-webfont.woff2": "/robofriends/static/media/rothek-bolditalic-webfont.455497b7e3b919af17a1.woff2",
+    "static/media/rothek-extralight-webfont.woff2": "/robofriends/static/media/rothek-extralight-webfont.3c293f63508a0f6ab04d.woff2",
+    "static/media/SEGA.woff": "/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robofriends/index.html",
+    "main.93401ac0.css.map": "/robofriends/static/css/main.93401ac0.css.map",
+    "main.469565c3.js.map": "/robofriends/static/js/main.469565c3.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93401ac0.css",
+    "static/js/main.469565c3.js"
+  ]
+}
